@@ -1,0 +1,9 @@
+~$*
+*.tmp
+*.pdf
+/請求書PDF_*/
+/ACCESSデータ作成/
+*.accdb
+*.mdb
+*.laccdb
+*.bak
